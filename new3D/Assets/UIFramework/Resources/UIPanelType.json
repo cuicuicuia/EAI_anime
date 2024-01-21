@@ -1,0 +1,35 @@
+{
+  "infoList": [
+    {
+      "panelTypeString": " main",
+      "path": "UIPanel/main_Panel"
+    },
+
+    {
+      "panelTypeString": "uerpanel",
+      "path": "UIPanel/user_Panel"
+    },
+
+    {
+      "panelTypeString": "usebook",
+      "path": "UIPanel/usebook_panel"
+    },
+    {
+      "panelTypeString": "login_panel",
+      "path": "UIPanel/login_panel"
+    },
+    {
+      "panelTypeString": "welcome_panel",
+      "path": "UIPanel/welcome_panel"
+    },
+    {
+      "panelTypeString": "model_Panel",
+      "path": "UIPanel/model_Panel"
+    },
+    {
+      "panelTypeString": "StartGame_Panel",
+      "path": "UIPanel/StartGame_Panel"
+    }
+
+  ]
+}
